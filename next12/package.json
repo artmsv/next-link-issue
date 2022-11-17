@@ -1,0 +1,12 @@
+{
+  "name": "next12",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next build && next start"
+  },
+  "dependencies": {
+    "next": "12.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
